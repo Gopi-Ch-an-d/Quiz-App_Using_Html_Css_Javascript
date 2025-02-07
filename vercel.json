@@ -1,8 +1,8 @@
 {
     "rewrites":[
         {
-            "source":"/api/quiz",
-            "destination":"http://localhost:3000/quiz"
+            "source":"/(.*)",
+            "destination":"/"
         }
     ]
 }
