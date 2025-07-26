@@ -24,6 +24,6 @@ The **Quiz App** is designed to test knowledge in a fun and engaging way. It inc
 ## 🛠 Tech Stack
 - 🌐 **HTML5** – Structure of the quiz  
 - 🎨 **CSS3** – Styling and layout  
-- ⚡ **JavaScript (ES6)** – Logic and interactivity  
+- ⚡ **JavaScript (ES6)** – Logic and interactivity
 
 
