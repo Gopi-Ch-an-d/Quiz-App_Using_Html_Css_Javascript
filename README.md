@@ -1,18 +1,26 @@
 # 🧠 Quiz App
 
-A Simple, interactive **Quiz Application** built using **HTML5, CSS3, and JavaScript**. This app allows users to answer multiple-choice questions and displays the score at the end.
+A simple, interactive **Quiz Application** built using **HTML5, CSS3, and JavaScript**. This app allows users to answer multiple-choice questions and displays the score at the end.
+
+---
+
+## 🔗 Live Demo
+
+Check out the live application here: [Quiz App Live](https://classy-moxie-823575.netlify.app/)
 
 ---
 
 ## 📖 About the Project
-The **Quiz App** is designed to test knowledge in a fun and engaging way. It includes:
-- ✅ Multiple-choice questions
-- ⏱ Timer functionality *(optional)*
-- 📊 Score tracking
+
+The **Quiz App** is designed to test knowledge in a fun and engaging way. It includes:  
+- ✅ Multiple-choice questions  
+- ⏱ Timer functionality *(optional)*  
+- 📊 Score tracking  
 
 ---
 
 ## ✨ Features
+
 ✔️ 🖥 **Responsive Design** – Works on desktop and mobile  
 ✔️ ❓ **Dynamic Questions** – Load questions from JavaScript  
 ✔️ ⏱ **Timer Support** – (Optional) Time-based quizzes  
@@ -22,8 +30,7 @@ The **Quiz App** is designed to test knowledge in a fun and engaging way. It inc
 ---
 
 ## 🛠 Tech Stack
+
 - 🌐 **HTML5** – Structure of the quiz  
 - 🎨 **CSS3** – Styling and layout  
-- ⚡ **JavaScript (ES6)** – Logic and interactivity
-
-
+- ⚡ **JavaScript (ES6)** – Logic and interactivity  
